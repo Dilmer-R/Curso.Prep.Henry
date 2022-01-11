@@ -1,0 +1,11 @@
+1. En un archivo de texto separado que debes crear, escribe explicando los siguientes conceptos como si se lo estuviera explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables: Son como por ejemplo cajas donde almacenamos un valor.
+
+Instrumentos de cuerda: Son cadenas o strings.
+
+Funciones (argumentos, return): Las funciones sirven para reutilizar el código, para no volver a escribir el mismo código, los argumentos son variables locales y el return sirve para devolver y parar la funcion.
+
+Declaraciones if: Significa que por ejemplo, si haces la tarea, entonces puedes ir a jugar, en pocas palabras son condiciones.
+
+Valores booleanos ( true, false): Son banderas de verdadero y falso.
